@@ -1,6 +1,6 @@
 ### Hi! I'm Frank 👋
 
-Feel free to check out some of my work on here! Most of the juicy stuff I've worked and collaborated on is, unfortunately, in private repositories but, I've got a couple gems in the public mix!
+Feel free to check out some of my work on here! Most of the juicy stuff I've worked and collaborated on is, unfortunately, in private repositories but, I've got a couple gems in the public mix! You can also check out my portfolio [here!](https://www.frankdangelo.app)
 
 #### A little bit about me:
 
